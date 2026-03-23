@@ -44,6 +44,9 @@ Used a dataset containing salary values across different roles and time periods 
 - The dataset shows a near bell-shaped distribution, suggesting a natural spread of values  
 
 ---
+## 📸 Output
+
+![Bell Curve](image.png)
 
 ## 🎯 Learning
 
